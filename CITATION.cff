@@ -1,0 +1,18 @@
+
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "AttnDEC-KMeans-HITS: Hybrid Deep Embedded Clustering with HITS-based Inference for SDN/IDS"
+authors:
+  - family-names: Kareem
+    given-names: Mohammed Ibrahim
+  - family-names: Abdulhassan
+    given-names: Aladdin
+  - family-names: Lafta
+    given-names: Abdullah Yousif
+  - family-names: Hussein
+    given-names: Hussein Ibrahim
+  - family-names: Matloob
+    given-names: Ali Z.K.
+version: "1.0.0"
+date-released: "2025-09-25"
+url: "https://github.com/mohammedikareem/AttnDEC-KMeans-HITS"
